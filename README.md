@@ -21,7 +21,7 @@
 [![DCTewi's Github Stats](https://github-readme-stats.vercel.app/api?username=dctewi&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![DCTewi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dctewi&layout=compact&show_icons=true&hide_border=true&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔮 𝑳𝒆𝒂𝒓𝒏𝒆𝒅 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
+## 🔮 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)
