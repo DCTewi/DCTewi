@@ -21,7 +21,7 @@
 [![DCTewi's Github Stats](https://github-readme-stats.vercel.app/api?username=dctewi&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![DCTewi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dctewi&layout=compact&show_icons=true&hide_border=true&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔮 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌𝒔
+## 🔮 𝑭𝒂𝒗𝒐𝒓𝒊𝒕𝒆
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)
@@ -29,12 +29,6 @@
 ![Java](https://img.shields.io/badge/-Java-E11F22?style=flat-square&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=Python&logoColor=FFFFFF)
 ![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?style=flat-square&logo=Go&logoColor=FFFFFF)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=Javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=FFFFFF)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua)
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown)
 ![Latex](https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=Latex)
@@ -48,21 +42,6 @@
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=FFFFFF)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=FFFFFF)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-## 💕 𝑭𝒂𝒗𝒐𝒓
-
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)
-![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=FFFFFF)
-![KDE](https://img.shields.io/badge/-KDE-1D99F3?style=flat-square&logo=KDE&logoColor=FFFFFF)
-![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=FFFFFF)
-![VLC](https://img.shields.io/badge/-VLC-FF8800?style=flat-square&logo=VLC-media-player&logoColor=FFFFFF)
-
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat-square&logo=Linux&logoColor=FCC624)
-![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=FFFFFF)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=FFFFFF)
-![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=FFFFFF)
-![Xiaomi](https://img.shields.io/badge/-Xiaomi-FA6709?style=flat-square&logo=Xiaomi&logoColor=FFFFFF)
 
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam)
 ![Ubisoft](https://img.shields.io/badge/-Ubisoft-224099?style=flat-square&logo=Ubisoft&logoColor=FFFFFF)
