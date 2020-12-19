@@ -19,7 +19,7 @@
 ## 📃 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
 
 [![DCTewi's Github Stats](https://github-readme-stats.vercel.app/api?username=dctewi&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![DCTewi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dctewi&layout=compact&show_icons=true&hide_border=true&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![DCTewi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dctewi&layout=compact&langs_count=8&hide_border=true&exclude_repo=dctewi.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔮 𝑭𝒂𝒗𝒐𝒓𝒊𝒕𝒆
 
