@@ -6,13 +6,7 @@
 [![](https://img.shields.io/badge/-dctewi.com-blueviolet?style=flat-square&logo=Hexo&logoColor=FFFFFF)](https://dctewi.com)
 [![](https://img.shields.io/badge/-dctewi@dctewi.com-D14836?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:dctewi@dctewi.com)
 
-🎓  𝐀 𝐜𝐮𝐫𝐫𝐞𝐧𝐭 𝐜𝐨𝐥𝐥𝐞𝐠𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐰𝐡𝐨 𝐞𝐧𝐣𝐨𝐲𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐚𝐥𝐥 𝐬𝐨𝐫𝐭𝐬 𝐨𝐟 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤𝐬.
-
-🎮  𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐭𝐨 𝐣𝐨𝐢𝐧𝐢𝐧𝐠 𝐭𝐡𝐞 𝐠𝐚𝐦𝐢𝐧𝐠 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐚𝐬 𝐚 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐚𝐟𝐭𝐞𝐫 𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐈'𝐦 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐭𝐨𝐰𝐚𝐫𝐝𝐬 𝐭𝐡𝐚𝐭.
-
-💻  𝐁𝐞𝐥𝐢𝐞𝐯𝐞𝐫 𝐨𝐟 𝐂 𝐒𝐭𝐲𝐥𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬.
-
-🐣  𝐁𝐚𝐬𝐢𝐜𝐚𝐥𝐥𝐲 𝐧𝐨𝐨𝐛, 𝐛𝐮𝐭 𝐜𝐮𝐫𝐢𝐨𝐮𝐬 𝐚𝐧𝐝 𝐬𝐭𝐮𝐝𝐢𝐨𝐮𝐬.
+之前写的好没特色啊，先编辑了。
 
 ## 📃 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
 
