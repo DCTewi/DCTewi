@@ -53,7 +53,7 @@
 
 
 ### 📃 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-[![trophy](https://github-profile-trophy.vercel.app/?username=dctewi&theme=flat&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dctewi&theme=flat&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 [![DCTewi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dctewi&layout=compact&langs_count=8&exclude_repo=dctewi.github.io&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![DCTewi's Github Stats](https://github-readme-stats.vercel.app/api?username=dctewi&show_icons=true&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
